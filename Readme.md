@@ -15,7 +15,6 @@
 <br />
 
 ### Connect with me: 
-<br/> 
 
 <h3><a href="https://www.linkedin.com/in/thomaskarag"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> Check my portfolio <a href='http://whatiknow.herokuapp.com/' target='_blank'> here</a></h3>
 <!-- [![website](./images/globe-light.svg)](http://whatiknow.herokuapp.com/#gh-light-mode-only)
