@@ -3,10 +3,6 @@
 ## A recent graduate of [salt's](https://www.salt.study/) full-stack developer bootcamp in Stockholm, Sweden.
 ### I'm an aviation enthusiast with some flight hours in single engine aircrafts,<br/> who has worked with Digital Marketing, Airline Ops and Event Planning (Parties!), <br/> to list a few.  Now I am working for Salt as a consultant and at the same time <br/> building my portfolio (Watch this Space).
 
-
-<br />
-
-
  My 2022 Professional Goals: 
 - Consolidate my knowledge of all programming concepts I came across during the bootcamp I completed with [salt](https://www.salt.study/) this year.
 - I am assigned as an Implementation Specialist to Merkle Outfox. I am helping clients with web analytics and tracking on their websites.
@@ -16,14 +12,18 @@
 
 ### Connect with me: 
 
-<h3><a href="https://www.linkedin.com/in/thomaskarag"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> Check my portfolio <a href='http://whatiknow.herokuapp.com/' target='_blank'> here</a></h3>
+<h3><a href="https://www.linkedin.com/in/thomaskarag"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+ 
+ Check my portfolio <a href='http://whatiknow.herokuapp.com/' target='_blank'> here</a>
 <!-- [![website](./images/globe-light.svg)](http://whatiknow.herokuapp.com/#gh-light-mode-only)
 [![website](./images/globe-dark.svg)](http://whatiknow.herokuapp.com/#gh-dark-mode-only)
 &nbsp;&nbsp; -->
 <!-- [![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/thomaskarag/#gh-light-mode-only)
 [![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/thomaskarag/#gh-dark-mode-only)
 &nbsp;&nbsp; -->
-[tom84dev@gmail.com](mailto:tom84dev@gmail.com)
+
+Email: [tom84dev@gmail.com](mailto:tom84dev@gmail.com) </h3>
+
 
 ### Languages and Tools:
 
