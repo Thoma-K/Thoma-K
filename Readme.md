@@ -24,7 +24,7 @@
 [![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/thomaskarag/#gh-dark-mode-only)
 &nbsp;&nbsp; -->
 <br />
-
+<h3>Email: tom84dev@gmail.com </h3>
 
 ### Languages and Tools:
 
