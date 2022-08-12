@@ -23,8 +23,7 @@
 <!-- [![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/thomaskarag/#gh-light-mode-only)
 [![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/thomaskarag/#gh-dark-mode-only)
 &nbsp;&nbsp; -->
-<br />
-<h3>Email: tom84dev@gmail.com </h3>
+[tom84dev@gmail.com](mailto:tom84dev@gmail.com)
 
 ### Languages and Tools:
 
