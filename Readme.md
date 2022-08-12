@@ -8,8 +8,9 @@
 
 
  My 2022 Professional Goals: 
-- Consolidate my knowledge of all programming concepts I came across during the    bootcamp I completed with [salt](https://www.salt.study/) this year.
-- Keep making projects that find I interesting and build my portfolio.
+- Consolidate my knowledge of all programming concepts I came across during the bootcamp I completed with [salt](https://www.salt.study/) this year.
+- I am assigned as an Implementation Specialist to Merkle Outfox. I am helping clients with web analytics and tracking on their websites.
+- Keep making projects that I find interesting and build my portfolio.
 
 <br />
 
