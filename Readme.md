@@ -5,8 +5,12 @@
 
  My 2022 Professional Goals: 
 - Consolidate my knowledge of all programming concepts I came across during the bootcamp I completed with [salt](https://www.salt.study/) this year.
-- I am assigned as an Implementation Specialist to Merkle Outfox. I am helping GA 360 clients with web analytics and tracking on their websites.
+- I was assigned as an Implementation Specialist to Merkle Outfox. I am helping GA 360 clients with web analytics and tracking on their websites.
 - Keep making projects that I find interesting and build my portfolio.
+
+ My 2023 Professional Goals:
+- Started working as an Optimization Developer at TUI Nordics. I will be creating A/B tests for the Nordic sites mainly by changing the DOM (no backend).
+- Will keep practicing by creating full-stack projects and sharing some here.
 
 <br />
 
