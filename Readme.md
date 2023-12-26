@@ -1,7 +1,7 @@
 # Hi there, I'm Thomas, a Full-stack Javascript Developer.
 
 ## A graduate of [salt's](https://www.salt.study/) full-stack developer bootcamp in Stockholm, Sweden.
-### I'm an aviation enthusiast with some flight hours in single engine aircrafts,<br/> who has worked with Digital Marketing, Airline Ops and Event Planning (Parties!), <br/> to list a few.  Now I am working as a Optimization Developer for TUI Nordics and at the same time <br/> building adding to this space some personal projects.
+### I'm an aviation enthusiast with some flight hours in single engine aircrafts,<br/> who has worked with Digital Marketing, Airline Ops and Event Planning (Parties!), <br/> to list a few.  Now I am working as a Optimization Developer for TUI Nordics and at the same time <br/> adding to some personal projects this space.
 
  My 2022 Professional Goals: 
 - Consolidate my knowledge of all programming concepts I came across during the bootcamp I completed with [salt](https://www.salt.study/) this year.
